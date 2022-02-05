@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Grocery App</string>
+    <string name="title_activity_welcome_screen">Welcome_Screen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="sign_up">Sign up</string>
+    <string name="checkout">Checkout</string>
+</resources>
